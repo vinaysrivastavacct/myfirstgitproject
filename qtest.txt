@@ -1,0 +1,5 @@
+Q) - SQL: Display a given string
+A) SELECT "This is SQL Exercise, Practice and Solution";
+
+Q.- sum of two number
+A) SELECT 10+15 as total
